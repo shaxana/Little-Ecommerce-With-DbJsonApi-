@@ -1,0 +1,72 @@
+nav {
+  background: rgb(98, 147, 218);
+  background: linear-gradient(270deg, rgb(98, 147, 218) 46%, rgb(128, 209, 210) 89%);
+}
+nav img {
+  margin-left: 200px;
+}
+
+.pages {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.right-side {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.right-side h6 a {
+  color: black;
+  margin-right: 7px;
+}
+.right-side .buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 200px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+.search-input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.form-control {
+  width: 400px;
+}
+
+.shoppingCard {
+  border: 1px solid black;
+  margin-top: 50px;
+  height: 450px;
+}
+
+.profileCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  width: 450px;
+  margin-top: 40px;
+  padding: 10px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=main.css.map */

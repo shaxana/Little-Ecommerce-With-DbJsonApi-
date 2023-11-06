@@ -1,0 +1,308 @@
+{
+  "singers": [
+    {
+      "id": 1,
+      "name": "Adele",
+      "imageLink": "https://ca-times.brightspotcdn.com/dims4/default/1a071c7/2147483647/strip/true/crop/4130x2753+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F20%2F97%2F8efe5252454bb8e81b911ef18f17%2Fbritain-brit-awards-2022-arrivals-05121.jpg",
+      "age": 35,
+      "nationality": "British",
+      "genre": "Pop"
+    },
+    {
+      "id": 2,
+      "name": "Beyonce",
+      "imageLink": "https://www.billboard.com/wp-content/uploads/2023/05/02-Beyonce-RENAISSANCE-WORLD-TOUR-Opening-Night-may-2023-billboard-1548.jpg?w=942&h=623&crop=1",
+      "age": 40,
+      "nationality": "American",
+      "genre": "R&B"
+    },
+    {
+      "id": 3,
+      "name": "Ed Sheeran",
+      "imageLink": "https://www.billboard.com/wp-content/uploads/2023/02/Ed-Sheeran-2022-billboard-1548.jpg?w=942&h=623&crop=1",
+      "age": 31,
+      "nationality": "British",
+      "genre": "Pop"
+    },
+    {
+      "id": 4,
+      "name": "The Weeknd",
+      "imageLink": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/326db706634c835bf76b9451c011e582.jpg",
+      "age": 33,
+      "nationality": "Canadian",
+      "genre": "R&B"
+    },
+    {
+      "id": 5,
+      "name": "Rihanna",
+      "imageLink": "https://media.glamour.com/photos/64d658f7c08bc78a537c6685/master/w_2560%2Cc_limit/GettyImages-1436969511.jpg",
+      "age": 35,
+      "nationality": "Barbadian",
+      "genre": "Reggae"
+    },
+    {
+      "id": 6,
+      "name": "Harry Styles",
+      "imageLink": "https://img2.rtve.es/i/?w=1600&i=1694621958889.jpg",
+      "age": 29,
+      "nationality": "British",
+      "genre": "Pop"
+    },
+    {
+      "id": 7,
+      "name": "Ariana Grande",
+      "imageLink": "https://parade.com/.image/t_share/MTk2MDQxMzE4MjU2OTQ0NjA5/ariana-grande-net-worth-ftr.jpg",
+      "age": 30,
+      "nationality": "American",
+      "genre": "Pop"
+    },
+    {
+      "id": 7,
+      "name": "Lana Del Rey",
+      "imageLink": "https://www.billboard.com/wp-content/uploads/2023/02/feature-lana-del-rey-women-in-music-billboard-2023-bb2-lia-clay-miller-7-1548.jpg",
+      "age": 38,
+      "nationality": "American",
+      "genre": "Pop"
+    },
+    {
+      "id": 8,
+      "name": "Billie Eilish",
+      "imageLink": "https://static.independent.co.uk/2021/07/30/11/RE_00A40002_BE_GREEN_147%20%283%29.jpg",
+      "age": 21,
+      "nationality": "American",
+      "genre": "Pop"
+    }
+  ],
+  "meals": [
+    {
+      "id": 1,
+      "name": "Taco",
+      "price": 12.99,
+      "ingredients": [
+        "Rice",
+        "fish",
+        "seawend",
+        "soy sauce",
+        "wasabi",
+        "pickled ginger"
+      ],
+      "imageLink": "https://images-gmi-pmc.edge-generalmills.com/e59f255c-7498-4b84-9c9d-e578bf5d88fc.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pizza",
+      "price": 9.99,
+      "ingredients": [
+        "Tomato Sauce",
+        "Cheese",
+        "Toppings",
+        "Tomato Sauce",
+        "Black Olives",
+        "Mushrooms"
+      ],
+      "imageLink": "https://www.allrecipes.com/thmb/fFW1o307WSqFFYQ3-QXYVpnFj6E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/48727-Mikes-homemade-pizza-DDMFS-beauty-4x3-BG-2974-a7a9842c14e34ca699f3b7d7143256cf.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Spaghetti Carbonara",
+      "price": 10.49,
+      "ingredients": [
+        "Spaghetti",
+        "Ground Beef",
+        "Tomato Sauce",
+        "Onions",
+        "Garlic",
+        "Parmesan Cheese"
+      ],
+      "imageLink": "https://supervalu.ie/thumbnail/800x600/var/files/real-food/recipes/Uploaded-2020/spaghetti-bolognese-recipe.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Chicken Caesar Salad",
+      "price": 11.99,
+      "ingredients": [
+        "Mixed Vegetables",
+        "Tofu or Chicken",
+        "Soy Sauce",
+        "Ginger",
+        "Garlic",
+        "Rice"
+      ],
+      "imageLink": "https://handletheheat.com/wp-content/uploads/2011/05/Grilled-Chicken-Caesar-Salad-500x375.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Burger with fries",
+      "price": 11.99,
+      "ingredients": [
+        "Tomato",
+        "Cheese",
+        "Ketchup",
+        "Beef Patty",
+        "Mustard",
+        "Pickles"
+      ],
+      "imageLink": "https://i.pinimg.com/736x/a1/aa/dd/a1aadd368f035705b60dcf1b2521f86c.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Chicken buritto bowl",
+      "price": 11.99,
+      "ingredients": [
+        "Chicken",
+        "Rice",
+        "Beans",
+        "Corn",
+        "Sour Cream",
+        "Lettuce"
+      ],
+      "imageLink": "https://vjcooks.com/wp-content/uploads/2019/11/Vj_cooks_chickenburritobowls_6.jpg"
+    },
+    {
+      "name": "Greek Yogurt Parfait",
+      "price": 6.99,
+      "ingredients": [
+        "Greek yogurt",
+        "Fresh berries",
+        "Honey",
+        "Granola (in moderation)"
+      ],
+      "imageLink": "https://uploads-ssl.webflow.com/6425f03eadc96686600b6d52/650b2fe4b827b3a3fde6a6c7_Seasonal%20Fruit%20and%20Yogurt%20Parfait%20with%20House-Made%20Granola%20and%20Local%20Honey.png"
+    },
+    {
+      "name": "Salmon Salad",
+      "price": 12.99,
+      "ingredients": [
+        "Baked salmon fillet",
+        "Mixed green salad",
+        "Cucumber slices",
+        "Lemon vinaigrette dressing"
+      ],
+      "imageLink": "https://www.jessicagavin.com/wp-content/uploads/2016/05/greek-salmon-salad-with-lemon-basil-dressing-1200.jpg"
+    
+
+    }
+    
+
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "emilyjohnson",
+      "email": "emilyjohnson@gmail.com,",
+      "password": "Emily123",
+      "balance": 750,
+      "order": []
+    },
+    {
+      "id": 2,
+      "username": "oliviabrown",
+      "email": "oliviabrown@gmail.com,",
+      "password": "Olivia123",
+      "balance": 1200,
+      "order": []
+    },
+    {
+      "id": 3,
+      "username": "bobjohnson",
+      "email": "bobjohnson@gmail.com,",
+      "password": "Bob123",
+      "balance": 3000,
+      "order": []
+    },
+    {
+      "id": 4,
+      "username": "alexandersmith",
+      "email": "alexandersmith@gmail.com,",
+      "password": "Alexander123",
+      "balance": 4000,
+      "order": []
+    },
+    {
+      "id": 5,
+      "username": "sophiawilliams",
+      "email": "sophiawilliams@gmail.com,",
+      "password": "Sophia123",
+      "balance": 2500,
+      "order": []
+    },
+    {
+      "id": 6,
+      "username": "benjamindavis",
+      "email": "benjamindavis@gmail.com,",
+      "password": "Benjamin123",
+      "balance": 320,
+      "order": []
+    },
+    {
+      "username": "shahana",
+      "email": "shahana@gmail.com",
+      "password": "Admin123",
+      "balance": "245",
+      "id": 20
+    },
+    {
+      "username": "vegev",
+      "email": "labawad@gmail.com",
+      "password": "Pa$$w0rd!",
+      "balance": "16",
+      "id": 22
+    },
+    {
+      "username": "fosizufa",
+      "email": "xemufo@mailinator.com",
+      "password": "Admin123",
+      "balance": "234",
+      "id": 23
+    },
+    {
+      "username": "calud",
+      "email": "gosody@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "balance": "28",
+      "id": 24
+    },
+    {
+      "username": "jylaqud",
+      "email": "miwu@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "balance": "24",
+      "id": 25
+    },
+    {
+      "username": "ali",
+      "email": "ali@gmail.com",
+      "password": "asd123",
+      "balance": "345",
+      "id": 26
+    },
+    {
+      "username": "hailey",
+      "email": "hailey@gmail.com",
+      "password": "HAILEY",
+      "balance": "123",
+      "id": 27
+    },
+    {
+      "username": "joe",
+      "email": "joe@gmail.com",
+      "password": "joe",
+      "balance": "2356",
+      "id": 28
+    },
+    {
+      "username": "ann",
+      "email": "ann@gmail.com",
+      "password": "ANN",
+      "balance": "245",
+      "id": 29
+    },
+    {
+      "username": "qurban",
+      "email": "qurban@gmail.com",
+      "password": "QURBAN",
+      "balance": "234",
+      "id": 30
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+nav{
+    background: rgb(98,147,218);
+    background: linear-gradient(270deg, rgba(98,147,218,1) 46%, rgba(128,209,210,1) 89%);
+   img{
+    margin-left: 200px;
+   }
+}
+
+
+.pages{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.right-side{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    h6 a{
+        color: black;
+        margin-right: 7px;
+    }
+    .buttons{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-right: 200px;
+    }
+}
